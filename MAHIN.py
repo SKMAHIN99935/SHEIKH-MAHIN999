@@ -87,7 +87,7 @@ logo =                                          """
 \033[1;37m------------------------------------------------
 \033[1;37m Owner   :            SHEIKH MAHIN
 \033[1;37m Facebook:            SK MH
-\033[1;37m Github  :            SK-MAHIN99935
+\033[1;37m Github  :            https://github.com/SKMAHIN99935
 \033[1;37m Version :            0.1
 \033[1;37m------------------------------------------------ """
 def clear():
