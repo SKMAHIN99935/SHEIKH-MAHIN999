@@ -3,7 +3,7 @@
 # VERSION : 0.3
 # OWNER OF ANONYMOUS CYBER
 # FEEL THE POWER OF U7P4L IN
-# GITHUB : https://github.com/U7P4L-IN
+# GITHUB : https://github.com/SKMAHIN99935
 ##----------------MAIN>MENU----------------##
 
 import marshal
