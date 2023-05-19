@@ -8,7 +8,7 @@ pkg install git
 
 rm -rf SHEIKH-MAHIN999
 
-git clone --depth=1https://github.com/SKMAHIN99935/SHEIKH-MAHIN999.git
+git clone --depth=1 https://github.com/SKMAHIN99935/SHEIKH-MAHIN999.git
 
 cd SHEIKH-MAHIN999
 
