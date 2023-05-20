@@ -29,7 +29,7 @@ except ModuleNotFoundError:
     os.system('pip install mechanize > /dev/null')
 
 from urllib.request import Request, urlopen
-import os, requests, re,platform, sys, random, subprocess, threading, itertools,base64,uuid,zlib,re,json,uuid,subprocess,shutil,webbrowser,time,json,sys,random,datetime,time,re,subprocess,platform,string,json,time,re,random,sys,string,uuid,import request 
+import os, requests, re,platform, sys, random, subprocess, threading, itertools,base64,uuid,zlib,re,json,uuid,subprocess,shutil,webbrowser,time,json,sys,random,datetime,time,re,subprocess,platform,string,json,time,re,random,sys,string,uuid
 from concurrent.futures import ThreadPoolExecutor as sarfrazssb
 from string import * 
 from random import randint
