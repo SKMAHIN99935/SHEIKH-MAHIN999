@@ -40,7 +40,7 @@ import os, platform
 
 from concurrent.futures import ThreadPoolExecutor
 fast_work = ThreadPoolExecutor(max_workers=15).submit
-
+import urllib3
     
 model2 = requests.get('https://gist.githubusercontent.com/Nox-Naved/0588acb2b77932048a251d50a973029b/raw/f6de01ac684131b5353854ee114880fb00227cee/Model60').text.splitlines()
 totaldmp = 0
